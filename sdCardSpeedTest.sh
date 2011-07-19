@@ -90,6 +90,12 @@ fi
 TST_FILE=$sdcard/empty.file
 
 
+# caution
+echo "NOTE: Test might take about 5-10 min depending on your sd-card speed!"
+echo "      Please be patient during this time..."
+echo
+
+
 
 # write test
 echo "Evaluating write-BW..."
